@@ -1,0 +1,22 @@
+{
+  "name": "refactoring",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bill.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tgreenhalgh/refactoring.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tgreenhalgh/refactoring/issues"
+  },
+  "homepage": "https://github.com/tgreenhalgh/refactoring#readme",
+  "dependencies": {
+    "jest": "^23.6.0"
+  }
+}
